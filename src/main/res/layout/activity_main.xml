@@ -75,7 +75,6 @@
                 android:onClick="increment"
                 android:text="+"
                 android:textSize="15sp"
-                android:background="@color/purple_500"
                 android:textColor="#FAFAFA"/>
         </LinearLayout>
 
